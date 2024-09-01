@@ -1,6 +1,6 @@
-# URL Downloader
+# Doc Downloader
 
-URL Downloader is a simple script to download web pages from a list of URLs. It is written in Python and leverages Ray to parallelize the download process.
+Doc Downloader is a simple script to download web pages from a list of URLs. It is written in Python and leverages Ray to parallelize the download process.
 
 ## Use Cases
 You have a large list of web pages to download, but you don't want to download them one by one. This script will download all the web pages in the list for you. 
